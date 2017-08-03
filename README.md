@@ -1,5 +1,5 @@
 # movielens_recommendation
-Collaborative filtering(Memory_based, Model_based) 
+
 Recommendation Engine is fancy thing out today. It is a digital assistant which helps people to make a choice. Although choices 
 change everytime in this fast moving world but this assistant is that smart, it will adapt your choice ASAP.
 
